@@ -51,7 +51,7 @@ After doing that, crop the file path until you don't have `assets/images`.
 
 Example: `C:/Users/User/Downloads/Pou/assets/images/food/cherries.png` -> `food/cherries.png`
 
-Then you go to your mod folder and create a folder called `assets` and inside it create another folder called `images`. Then create folders and the image that replicate the path you copied.
+Then you go to your mod folder and create a folder called `assets` and inside it create another folder called `images`. Then replicate the path hirearchy of the path you copied in last step and and copy the image into it.
 
 > Note: Your image will look better if the size of the image is the same as the original one
 
